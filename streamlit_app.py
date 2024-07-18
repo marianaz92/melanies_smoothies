@@ -1,6 +1,6 @@
 #Import python packages
 import streamlimit as st
-import snowflake.snowpark.context import get_active_session
+#import snowflake.snowpark.context import get_active_session
 from snowflake.snowpark.functions import col
 
 st.title(":cup_with_straw: Customize Your Smoothie! :cup_with_straw:")
